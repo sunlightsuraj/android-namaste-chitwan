@@ -1,0 +1,6 @@
+/build
+/app/build/intermediates
+/.idea
+/.gradle
+/local.properties
+/HelloChitwan.iml
